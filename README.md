@@ -1,4 +1,14 @@
-mi-client；https://github.com/wodenwang/nami-client 。
+# 个人信息
+- 姓名：陈丽琼
+- 出生日期：1990-05-14
+- 职位：前端开发工程师
+- 工作年限：4年
+- 目前状态：待业
+
+# 自我简介
+前端技术划分越来越明显，我主要的工作内容是动效，互动方面的开发；
+
+最近在折腾小程序，目前在维护一个开源前端框架：nami-client；https://github.com/wodenwang/nami-client 。
 
 基本都是呆在创业公司，参与并上线的项目不下50个。
 
