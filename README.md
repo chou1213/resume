@@ -62,7 +62,7 @@ mi-client；https://github.com/wodenwang/nami-client 。
  
  ### 项目列表
  [我的作品](http://choubox.sinaapp.com/myWorks/)
- ![image](http://note.youdao.com/favicon.ico)
+ ![image](https://raw.githubusercontent.com/chou1213/resume/master/images/myWorks.jpeg)
  
  
  # 工作经历
